@@ -2,7 +2,7 @@
 
 Projet personnel de démonstration pour l'analyse de poutres utilisant FEniCS, exécuté via un pod Jupyter sur Kubernetes.
 
-![Demo](./demo.gif)
+![Demo](docs/demo.gif)
 
 ## ✨ Fonctionnalités
 
