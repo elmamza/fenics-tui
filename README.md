@@ -1,3 +1,8 @@
+[![Go](https://img.shields.io/badge/Go-1.21+-00ADD8)](https://golang.org)
+[![TUI](https://img.shields.io/badge/TUI-Bubble%20Tea-2ea44f)](https://github.com/charmbracelet/bubbletea)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-ready-326ce5)](https://kubernetes.io)
+[![FEniCS](https://img.shields.io/badge/FEM-FEniCS-6c4f8d)](https://fenicsproject.org)
+
 # Beam Solver – TUI pour l'analyse de poutres avec FEniCS
 
 Projet personnel de démonstration pour l'analyse de poutres utilisant FEniCS, exécuté via un pod Jupyter sur Kubernetes.
