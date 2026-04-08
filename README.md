@@ -50,7 +50,8 @@ go build -o beam_app main.go
 ## 🚀 Utilisation
 
 1. **Lancer l'application** :
-   ```bash                                                                                                                                                                                          ./beam_app
+   ```bash
+   ./beam_app
    ```
 
 2. **Navigation** :
